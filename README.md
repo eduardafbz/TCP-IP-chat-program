@@ -54,9 +54,9 @@ python -m client.gui
 
 Este projeto foi criado como um projeto da universidade (APS) para praticar os seguintes conceitos:
 
-* Programação com sockets TCP/IP
-* Multithreading e eventos assíncronos
-* Comunicação em rede cliente-servidor
+* Programação com sockets TCP/IP.
+* Multithreading e eventos assíncronos.
+* Comunicação em rede cliente-servidor.
 
 ---
 
